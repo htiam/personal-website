@@ -18,7 +18,7 @@ section{
     margin-left: 5%;
     padding-left: 5%;
 }
-@media screen and (max-width:370px) {
+@media screen and (max-width:420px) {
     .half-width-first{
         width: auto;
         margin-left: 1%;
@@ -30,7 +30,7 @@ section{
     margin-top: 10px;
     font-size:35px;
 }
-@media screen and (max-width:370px) {
+@media screen and (max-width:420px) {
     .half-width-first h1{
         margin-top: 20px;
         font-size: 25px;
@@ -42,7 +42,7 @@ section{
     font-size:50px;
     color: #e84118;
 }
-@media screen and (max-width:370px) {
+@media screen and (max-width:420px) {
     .half-width-first h2{
         margin: 0;
         font-size: 35px;
@@ -54,7 +54,7 @@ section{
     margin-bottom: 30px;
     margin-right: 2.2px;
 }
-@media screen and (max-width:370px) {
+@media screen and (max-width:420px) {
     .half-width-first p{
         font-size: 12px;
     }
@@ -71,7 +71,7 @@ section{
     padding: 10px 20px;
     border-radius: 25px;
 }
-@media screen and (max-width:370px) {
+@media screen and (max-width:420px) {
     .btn-hire{
         text-decoration: none;
         color: white;
@@ -87,7 +87,7 @@ section{
 .half-width-first img{
     width: 100%;
 }
-@media screen and (max-width:370px) {
+@media screen and (max-width:420px) {
     .half-width-first img{
         width: 85%;
         margin:0 0 0 15px;
